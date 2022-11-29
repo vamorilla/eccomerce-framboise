@@ -1,0 +1,17 @@
+.container{
+    margin: 0 auto;
+}
+
+.btn{
+    width: 45% !important;
+    border: 1px solid #D90467 !important;
+    background-color: #D90467 !important;
+    color: #F2EADF !important;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    margin-top: 2% !important;
+}
+
+.btn:hover{
+    background-color: #bc427b !important;
+}

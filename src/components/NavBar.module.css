@@ -1,0 +1,37 @@
+.container{
+    background-color: #BF1553;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btnContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: center;
+}
+
+.btn{
+    border: none !important; 
+    cursor: pointer !important;
+    color: #F2D680 !important;
+}
+
+.btn:hover{
+    color: #F2EDDC !important;
+}
+
+.btnLink{
+    text-decoration: none !important;
+}
+
+.cart{
+    font-size: 2rem;
+    color: #F2D680;
+    cursor: pointer;
+}
+
+.cart:hover{
+    color: #F2EDDC;
+}

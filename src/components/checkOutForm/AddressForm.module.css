@@ -1,0 +1,27 @@
+.btnContainer{
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    margin-top: 8%;
+}
+
+.btnNext{
+    background-color: #BF1553 !important;
+    color: #F2D680 !important;
+    font-weight: bold !important;
+}
+
+.btnNext:hover{
+    background-color: #c7356b !important;
+}
+
+.btnPrev{
+    background-color: #F2D680  !important;
+    color: #BF1553 !important;
+    font-weight: bold !important;
+    margin-right: 2% !important;
+}
+
+.btnPrev:hover{
+    background-color: #ecd799  !important;
+}

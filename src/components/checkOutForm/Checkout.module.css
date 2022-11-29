@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    margin-top: 10rem !important;
+}
+
+.paper{
+    width: 80%;
+    padding: 3%;
+}
+
+.stepper{
+    margin-bottom: 5%;
+}
+
+.btn{
+    background-color: #BF1553 !important;
+    color: #f2cb56 !important;
+    font-weight: bold !important;
+}
+
+.btn:hover{
+    background-color: #c33267 !important;
+}
+
+.btnAtras{
+    background-color: #f2cb56 !important;
+    color: #BF1553 !important;
+    font-weight: bold !important;
+}
+
+.btnAtras:hover{
+    background-color: #f3d57c !important;
+}

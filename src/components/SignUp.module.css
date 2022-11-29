@@ -1,0 +1,17 @@
+.container{
+    margin-top: 10rem !important;
+}
+
+.avatar{
+    background-color: #BF1553 !important;
+}
+
+.btn{
+    background-color: #BF1553 !important;
+}
+
+.signUp{
+    font-size: 0.9rem !important;
+    text-decoration: none !important;
+    color: blue !important;
+}
